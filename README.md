@@ -51,7 +51,7 @@ python image_viewer.py
     - A dotted line is drawn between the centers of the two images.
     - To clear the line, click on the button again.
 
-## Customization
+## Customization (Doesn't work as of now)
 
 The script fetches random images from image URLs provided in a file named "Images.dat". The file contains a pickled list of image URLs. You can modify the URLs in the file to change the set of images that the script fetches.
 
