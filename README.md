@@ -19,6 +19,7 @@ You can install the required libraries using the following command:
 ```bash
 pip install PyQt6 requests
 ```
+### (If you're in a hurry no worries, just download the latest release and execute the file ,your app will be up and running no need to pip install anything)
 
 ## Usage
 
